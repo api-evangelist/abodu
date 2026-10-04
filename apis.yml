@@ -45,7 +45,7 @@ tags:
 - Company
 - Construction
 - Housing
-- Real-Estate
+- Real Estate
 - ADU
 - Prefabrication
 - Backyard Homes
@@ -59,6 +59,7 @@ tags_raw:
 - Prefabrication
 - Backyard Homes
 - Home Building
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
